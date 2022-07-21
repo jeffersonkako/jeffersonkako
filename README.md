@@ -1,11 +1,13 @@
 ## Oi, eu sou o Kako! ☕️
 Estudante de Desenvolvimento Full Stack na Estácio.
 
+
 <div align="center">
   <a href="https://github.com/jeffersonkako">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jeffersonkako&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffersonkako&layout=compact&langs_count=7&theme=aura"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jeffersonkako&show_icons=true&theme=aura&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffersonkako&layout=compact&langs_count=10&theme=aura"/>
 </div>
+  
 <div style="display: inline_block"><br>
   <img align="center" alt="Kako-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Kako-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
