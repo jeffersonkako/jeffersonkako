@@ -3,8 +3,8 @@ Estudante de Desenvolvimento Full Stack na Estácio.
 
 <div align="center">
   <a href="https://github.com/jeffersonkako">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=jeffersonkako&show_icons=true&theme=aura&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffersonkako&layout=compact&langs_count=10&theme=aura"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jeffersonkako&show_icons=true&theme=aura&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffersonkako&layout=compact&langs_count=10&theme=aura"/>
 </div>
   
   ##
