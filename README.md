@@ -1,4 +1,5 @@
 ## Oi eu sou o Kako!
+Estudante de Desenvolvimento Full Stack na Estácio.
 
 <div align="center">
   <a href="https://github.com/jeffersonkako">
