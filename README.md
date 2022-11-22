@@ -1,7 +1,7 @@
 ---
-<div align="center">
-  <h2>Oi, eu sou o Kako! ☕️</h2>
-</div>
+<h1 align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Verdana&pause=1000&color=60FFCA&center=true&vCenter=true&width=435&lines=Oi%2C+eu+sou+o+Kako!;Dev+Front-End+em+Forma%C3%A7%C3%A3o!" alt="Typing SVG" /></a>
+</h1>
 
 <div align="center">
   <a href="https://github.com/jeffersonkako">
@@ -28,5 +28,7 @@
   <a href="https://www.linkedin.com/in/jeffersonkako" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/jeffersonkako/jeffersonkako/blob/output/github-contribution-grid-snake.svg)
+  
+  <!--<p align="right"> <img src="https://komarev.com/ghpvc/?username=jeffersonkako&color=blue" alt="Profiles views" /> </p>-->
  
 </div>
