@@ -10,7 +10,7 @@ Estudante de Desenvolvimento Full Stack na Estácio.
   
   ##
   
-<div style="display: inline_block"><br>
+<div align= "center" style="display: inline_block"><br>
   <img align="center" alt="Kako-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Kako-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Kako-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -19,7 +19,7 @@ Estudante de Desenvolvimento Full Stack na Estácio.
   <img align="center" alt="Kako-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
-<div> 
+<div align= "center" > 
 
 ##
 
