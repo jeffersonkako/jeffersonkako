@@ -1,6 +1,7 @@
 ---
-## Oi, eu sou o Kako!☕️
-Estudante de Desenvolvimento Full Stack na Estácio.
+## Oi, eu sou o Kako! ☕️
+* Acadêmico em Desenvolvimento Full Stack na Estácio.
+* Cursando: Alura, Origamid e ProgramadorBR
 
 
 <div align="center">
