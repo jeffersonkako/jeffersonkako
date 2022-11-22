@@ -1,8 +1,7 @@
 ---
-## Oi, eu sou o Kako! ☕️
-* Acadêmico em Desenvolvimento Full Stack na Estácio.
-* Cursando: Alura, Origamid e ProgramadorBR
-
+<div align="center">
+  <h2>Oi, eu sou o Kako! ☕️</h2>
+</div>
 
 <div align="center">
   <a href="https://github.com/jeffersonkako">
