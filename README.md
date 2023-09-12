@@ -13,7 +13,7 @@
  <p align="center" font-weight="bold"><b>Skills:</b></p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,next,tailwind,nodejs,python" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,next,tailwind" />
   </a>
 </p>
 
