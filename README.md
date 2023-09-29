@@ -5,7 +5,7 @@
 
 <div align="center" >  
   <img width="50%" height="200px" src="https://github-readme-stats.vercel.app/api?username=jeffersonkako&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=484c51&icon_color=484c51&text_color=c9d1d9&bg_color=0d1117" alt="Jefferson Github Stats" /> 
-  <!-- <img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffersonkako&layout=compact&hide_border=true&title_color=484c51&text_color=c9d1d9&bg_color=0d1117&langs_count=3&font=Verdana" /> -->
+  <img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffersonkako&layout=compact&hide_border=true&title_color=484c51&text_color=c9d1d9&bg_color=0d1117&langs_count=5&font=Verdana" />
 </div>
 
 <br>
