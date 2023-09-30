@@ -22,14 +22,14 @@
 <p align="center" font-weight="bold"><b>Tools:</b></p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,git,vercel,docker,figma" />
+    <img src="https://skillicons.dev/icons?i=vscode,idea,git,docker,vercel,figma" />
   </a>
 </p>
 
 <p align="center" font-weight="bold"><b>Studying:</b></p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dart,flutter,java,spring" />
+    <img src="https://skillicons.dev/icons?i=dart,flutter,firebase,java,spring" />
   </a>
 </p>
 
@@ -39,9 +39,6 @@
 <div align= "center" > 
   <a href = "mailto:contato@jefferson.dev"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jeffersonkako" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
+  <a href="https://discordapp.com/channels/@me/1119920127509549107" target="_blank"><img src="https://img.shields.io/badge/Discord-%23333?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
 </div>
 
-
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=21262D&height=120&section=footer"/>
