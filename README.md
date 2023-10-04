@@ -37,3 +37,4 @@
   <a href="https://discordapp.com/channels/@me/1119920127509549107" target="_blank"><img src="https://img.shields.io/badge/Discord-%23333?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
 </div>
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=21262D&height=120&section=footer"/>
