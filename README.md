@@ -17,7 +17,7 @@
 <p align="center" font-weight="bold"><b>Tools:</b></p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,idea,git,docker,vercel,figma" />
+    <img src="https://skillicons.dev/icons?i=vscode,git,vercel,docker,figma" />
   </a>
 </p>
 
