@@ -2,9 +2,10 @@
 <table style="border-collapse: collapse; border: none;">
 <tr>
 <td width="50%" style="border: none;">
+<br>
 
-# Oi, eu sou o Jefferson!
-## Full Stack Developer!
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Verdana&pause=1000&color=ffffff&size=40&left=true&vCenter=true&width=1000&lines=Oi%2C+eu+sou+o+Jefferson!;Full+Stack+Developer!)](https://git.io/typing-svg)
+
 
 <br>
 
