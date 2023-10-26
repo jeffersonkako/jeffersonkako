@@ -1,8 +1,7 @@
-
 <div align="center">
-<table>
+<table style="border-collapse: collapse; border: none;">
 <tr>
-<td width="50%">
+<td width="50%" style="border: none;">
 
 # Oi, eu sou o Jefferson!
 ## Full Stack Developer!
@@ -32,13 +31,12 @@
 [![Discord](https://img.shields.io/badge/Discord-%23333?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/channels/@me/1119920127509549107)
 
 </td>
-<td width="50%">
+<td width="50%" style="border: none;">
 
-![kakox1](https://github.com/jeffersonkako/jeffersonkako/assets/104142117/dd05bf77-b941-4573-9386-f88e049da942)
+![kakogit](https://github.com/jeffersonkako/jeffersonkako/assets/104142117/5f3e11b9-35a1-4133-90d9-efb359d46abd)
 
 
 </td>
 </tr>
 </table>
 </div>
-
