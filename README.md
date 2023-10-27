@@ -23,7 +23,7 @@
 
 **Studying:**
 
-![Studying](https://skillicons.dev/icons?i=dart,flutter,firebase,gulp,jest,redux,java,spring)
+![Studying](https://skillicons.dev/icons?i=gulp,jest,redux,nestjs,dart,flutter,firebase,java)
 
 <br>
 
