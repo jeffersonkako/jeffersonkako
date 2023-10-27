@@ -11,19 +11,19 @@
 
 **Skills:**
 
-![Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,react,next,tailwind)
+![Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,react,next,tailwind,nodejs)
 
 <br>
 
 **Tools:**
 
-![Tools](https://skillicons.dev/icons?i=vscode,git,vercel,docker,figma)
+![Tools](https://skillicons.dev/icons?i=vscode,git,vercel,docker,figma,github,discord,postman)
 
 <br>
 
 **Studying:**
 
-![Studying](https://skillicons.dev/icons?i=dart,flutter,firebase,java,spring)
+![Studying](https://skillicons.dev/icons?i=dart,flutter,firebase,gulp,jest,redux,java,spring)
 
 <br>
 
