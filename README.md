@@ -31,6 +31,7 @@
 
 <br>
 
-![kakogit](https://github.com/jeffersonkako/jeffersonkako/assets/104142117/5f3e11b9-35a1-4133-90d9-efb359d46abd)
+![avatarkakogit](https://github.com/jeffersonkako/jeffersonkako/assets/104142117/976f39d0-ef13-4d11-b71e-0b2b0bb01a3d)
+
 
 </div>
