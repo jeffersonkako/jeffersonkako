@@ -21,7 +21,7 @@
 
 **Studying:**
 
-![Studying](https://skillicons.dev/icons?i=gulp,jest,redux,nestjs,dart,flutter,firebase,java)
+![Studying](https://skillicons.dev/icons?i=dart,flutter,firebase,nestjs,gulp,jest,redux)
 
 <br>
 
