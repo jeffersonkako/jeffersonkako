@@ -7,21 +7,21 @@
 
 <br>
 
-**Skills:**
+**Habilidades que domino e estudo:**
 
-![Skills](https://skillicons.dev/icons?i=dart,flutter,javascript,typescript,react,next,tailwind)
-
-<br>
-
-**Tools:**
-
-![Tools](https://skillicons.dev/icons?i=vscode,git,vercel,docker,figma,github,discord)
+![Skills](https://skillicons.dev/icons?i=dart,flutter,firebase,javascript,typescript,react,next,nodejs)
 
 <br>
 
-**Studying:**
+**Principais Ferramentas:**
 
-![Studying](https://skillicons.dev/icons?i=firebase,nodejs,nestjs,redux,gulp,jest)
+![Tools](https://skillicons.dev/icons?i=vscode,docker,figma,git,github,discord)
+
+<br>
+
+**Em roadmap para estudo:**
+
+![Studying](https://skillicons.dev/icons?i=kotlin,swift,angular)
 
 <br>
 
