@@ -10,13 +10,13 @@
 
 **Habilidades que domino e estudo:**
 
-![Skills](https://skillicons.dev/icons?i=dart,flutter,firebase,javascript,typescript,react,next,nodejs)
+![Skills](https://skillicons.dev/icons?i=dart,flutter,javascript,typescript,react,next,nodejs)
 
 <br>
 
 **Principais Ferramentas:**
 
-![Tools](https://skillicons.dev/icons?i=vscode,docker,figma,git,github,discord)
+![Tools](https://skillicons.dev/icons?i=vscode,firebase,docker,figma,git,github,discord)
 
 <br>
 
