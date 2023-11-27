@@ -1,6 +1,7 @@
 <div align="center">
 
 <br>
+<br>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Verdana&pause=1000&color=ffffff&size=40&center=true&vCenter=true&width=1000&lines=Oi%2C+eu+sou+o+Jefferson!;Mobile+Developer!)](https://git.io/typing-svg)
 
