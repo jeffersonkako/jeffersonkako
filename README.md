@@ -21,7 +21,7 @@
 
 **Em roadmap para estudo:**
 
-![Studying](https://skillicons.dev/icons?i=kotlin,swift,angular)
+![Studying](https://skillicons.dev/icons?i=cs,dotnet,kotlin)
 
 <br>
 
