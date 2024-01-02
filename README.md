@@ -16,13 +16,13 @@
 
 **Principais Ferramentas:**
 
-![Tools](https://skillicons.dev/icons?i=vscode,firebase,docker,figma,git,github,discord)
+![Tools](https://skillicons.dev/icons?i=vscode,firebase,docker,git,figma,github)
 
 <br>
 
 **Em roadmap para estudo:**
 
-![Studying](https://skillicons.dev/icons?i=cs,dotnet,kotlin)
+![Studying](https://skillicons.dev/icons?i=cs,dotnet)
 
 <br>
 
