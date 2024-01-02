@@ -16,7 +16,7 @@
 
 **Principais Ferramentas:**
 
-![Tools](https://skillicons.dev/icons?i=vscode,firebase,docker,git,figma,github)
+![Tools](https://skillicons.dev/icons?i=vscode,firebase,docker,git,github,figma)
 
 <br>
 
