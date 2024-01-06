@@ -22,7 +22,7 @@
 
 **Em roadmap para estudo:**
 
-![Studying](https://skillicons.dev/icons?i=cs,dotnet)
+![Studying](https://skillicons.dev/icons?i=swift)
 
 <br>
 
