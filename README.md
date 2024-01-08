@@ -1,22 +1,22 @@
-<div align="center">
+<div align="start">
 
 <br>
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Verdana&pause=1000&color=ffffff&size=40&center=true&vCenter=true&width=1000&lines=Oi%2C+eu+sou+o+Jefferson!;Mobile+Developer!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Verdana&pause=1000&color=ffffff&size=40&center=false&vCenter=true&width=1000&lines=Oi%2C+eu+sou+o+Jefferson!;Mobile+Developer!)](https://git.io/typing-svg)
 
 
 <br>
 
 **Habilidades que domino e estudo:**
 
-![Skills](https://skillicons.dev/icons?i=dart,flutter,javascript,typescript,react,next,nodejs)
+![Skills](https://skillicons.dev/icons?i=dart,flutter,javascript,typescript,react,next,nodejs,)
 
 <br>
 
 **Principais Ferramentas:**
 
-![Tools](https://skillicons.dev/icons?i=vscode,firebase,docker,git,github,figma)
+![Tools](https://skillicons.dev/icons?i=vscode,firebase,aws,docker,git,github,figma)
 
 <br>
 
