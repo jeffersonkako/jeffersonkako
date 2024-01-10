@@ -7,18 +7,15 @@
 
 <br>
 
-## Habilidades que domino e estudo:
-![Skills](https://skillicons.dev/icons?i=dart,flutter,javascript,typescript,react,next,nodejs)
+## Tecnologias que domino e estudo:
+![Skills](https://skillicons.dev/icons?i=dart,flutter,swift,javascript,react,next,nodejs)
 <br>
 
 ## Principais Ferramentas:
 ![Tools](https://skillicons.dev/icons?i=vscode,firebase,aws,docker,git,github,figma)
-<br>
-
-## Em roadmap para estudo:
-![Studying](https://skillicons.dev/icons?i=swift)
 
 <br>
+
 
 [![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato@jefferson.dev)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeffersonkako)
