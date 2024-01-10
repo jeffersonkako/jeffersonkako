@@ -1,17 +1,18 @@
-<div align="center">
+
+<div align="start">
 <br>
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Verdana&pause=1000&color=ffffff&size=40&center=true&vCenter=true&width=1000&lines=Oi%2C+eu+sou+o+Jefferson!;Mobile+Developer!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Verdana&pause=1000&color=ffffff&size=35&center=false&vCenter=true&width=1000&lines=Oi%2C+eu+sou+o+Jefferson!;Mobile+Developer!)](https://git.io/typing-svg)
 
 
 <br>
 
-## Tecnologias que domino e estudo:
+## <img align="center" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="35"/>  Tecnologias:
 ![Skills](https://skillicons.dev/icons?i=dart,flutter,swift,javascript,react,next,nodejs)
 <br>
 
-## Principais Ferramentas:
+## <img align="center" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="35"/>  Ferramentas:
 ![Tools](https://skillicons.dev/icons?i=vscode,firebase,aws,docker,git,github,figma)
 
 <br>
@@ -27,3 +28,5 @@
 
 
 </div>
+
+
