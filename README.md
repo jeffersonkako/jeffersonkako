@@ -5,11 +5,9 @@
 <td valign="center">
 
 <br>
-<br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Verdana&pause=1000&color=ffffff&size=35&center=false&vCenter=true&width=1000&lines=Oi%2C+eu+sou+o+Jefferson!;Mobile+Developer!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Verdana&pause=1000&color=ffffff&size=40&center=false&vCenter=true&width=1000&lines=Oi%2C+eu+sou+o+Jefferson!;Mobile+Developer!)](https://git.io/typing-svg)
 
-<br>
 
 ## Tecnologias:
 ![Skills](https://skillicons.dev/icons?i=dart,flutter,swift,javascript,react,next,nodejs)
