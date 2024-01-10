@@ -1,5 +1,4 @@
 <div align="start">
-
 <br>
 <br>
 
@@ -8,20 +7,15 @@
 
 <br>
 
-**Habilidades que domino e estudo:**
-
-![Skills](https://skillicons.dev/icons?i=dart,flutter,javascript,typescript,react,next,nodejs,)
-
+## Habilidades que domino e estudo:
+![Skills](https://skillicons.dev/icons?i=dart,flutter,javascript,typescript,react,next,nodejs)
 <br>
 
-**Principais Ferramentas:**
-
+## Principais Ferramentas:
 ![Tools](https://skillicons.dev/icons?i=vscode,firebase,aws,docker,git,github,figma)
-
 <br>
 
-**Em roadmap para estudo:**
-
+## Em roadmap para estudo:
 ![Studying](https://skillicons.dev/icons?i=swift)
 
 <br>
