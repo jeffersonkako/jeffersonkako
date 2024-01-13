@@ -7,7 +7,7 @@
 
 
 ## Tecnologias:
-![Skills](https://skillicons.dev/icons?i=dart,flutter,swift,javascript,react,next,nodejs)
+![Skills](https://skillicons.dev/icons?i=dart,flutter,swift,js,ts,react,next,nodejs)
 <br>
 
 ## Ferramentas:
