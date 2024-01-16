@@ -1,10 +1,10 @@
-<div align="start">
-
+<div align="center">
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Verdana&pause=1000&color=ffffff&size=40&center=false&vCenter=true&width=1000&lines=Oi%2C+eu+sou+o+Jefferson!;Mobile+Developer!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Verdana&pause=1000&color=ffffff&size=40&center=true&vCenter=true&width=1000&lines=Oi%2C+eu+sou+o+Jefferson!;Mobile+Developer!)](https://git.io/typing-svg)
 
+<br>
 
 ## Tecnologias:
 ![Skills](https://skillicons.dev/icons?i=dart,flutter,swift,js,ts,react,next,nodejs)
