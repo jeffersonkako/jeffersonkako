@@ -2,28 +2,22 @@
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Verdana&pause=1000&color=ffffff&size=40&center=true&vCenter=true&width=1000&lines=Oi%2C+eu+sou+o+Jefferson!;Mobile+Developer!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=verdana&pause=1000&color=1978A1&size=40&center=true&vCenter=true&width=1000&lines=Hello!+I'm+Jefferson!;Mobile+Developer!)](https://git.io/typing-svg)
 
 <br>
 
-## Tecnologias:
-![Skills](https://skillicons.dev/icons?i=dart,flutter,swift,js,ts,react,next,nodejs)
+![Skills](https://skillicons.dev/icons?i=dart,flutter,swift,js,ts,react,next,nodejs,vscode,docker,firebase,aws,gcp,git,github,figma&perline=8)
 <br>
-
-## Ferramentas:
-![Tools](https://skillicons.dev/icons?i=vscode,firebase,aws,docker,git,github,figma)
 
 <br>
 
-[![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato@jefferson.dev)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeffersonkako)
-[![Discord](https://img.shields.io/badge/Discord-%23333?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/channels/@me/1119920127509549107)
+[![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=1978A1)](mailto:contato@jefferson.dev)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=1978A1)](https://www.linkedin.com/in/jeffersonkako)
+[![Discord](https://img.shields.io/badge/Discord-%23333?style=for-the-badge&logo=discord&logoColor=1978A1)](https://discordapp.com/channels/@me/1119920127509549107)
 
 <br>
 
-
-  
-<!--![avatarkakogit](https://github.com/jeffersonkako/jeffersonkako/assets/104142117/976f39d0-ef13-4d11-b71e-0b2b0bb01a3d) -->
-
+<img src="https://github.com/jeffersonkako/jeffersonkako/assets/104142117/cd4e0a7c-9415-481f-99d0-093f05c98331" width="400"> 
 
 </div>
+
