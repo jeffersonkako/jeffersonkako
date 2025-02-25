@@ -11,9 +11,9 @@
 
 <br>
 
-[![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=ffffff)](mailto:jefferson@kips.tech)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/jeffersonppessoa)
-[![Discord](https://img.shields.io/badge/Discord-%23333?style=for-the-badge&logo=discord&logoColor=ffffff)](https://discordapp.com/channels/@me/1119920127509549107)
+[![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=9CA3AF)](mailto:jefferson@kips.tech)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=9CA3AF)](https://www.linkedin.com/in/jeffersonppessoa)
+[![Discord](https://img.shields.io/badge/Discord-%23333?style=for-the-badge&logo=discord&logoColor=9CA3AF)](https://discordapp.com/channels/@me/1119920127509549107)
 
 <br>
 
