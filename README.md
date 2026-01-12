@@ -12,7 +12,7 @@
 <br>
 
 [![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=a4a4a4)](mailto:jefferson@kips.tech)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=a4a4a4)](https://www.linkedin.com/in/jeffersonppessoa)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=a4a4a4)](https://www.linkedin.com/in/jeffersonkako)
 [![Discord](https://img.shields.io/badge/Discord-%23333?style=for-the-badge&logo=discord&logoColor=a4a4a4)](https://discordapp.com/channels/@me/1119920127509549107)
 
 <br>
